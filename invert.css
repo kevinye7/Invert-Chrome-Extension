@@ -1,0 +1,6 @@
+html {
+    filter: invert(1) hue-rotate(180deg);
+}
+video, image {
+    filter: invert(1) hue-rotate(180deg);
+}
